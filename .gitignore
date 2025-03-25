@@ -1,2 +1,6 @@
 aaja.txt
 changes added
+*.log
+env/
+class
+nodes_modules
